@@ -1,2 +1,2 @@
-node_modules
-tasks.html
+node_modules/
+.DS_Store/
